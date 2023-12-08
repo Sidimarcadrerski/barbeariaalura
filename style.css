@@ -10,3 +10,8 @@ h1{
     .imagembeneficios
     width: 50%;
   } 
+
+  .principal{
+    background-color:blueviolet;
+    padding: 3030px; 
+  }
